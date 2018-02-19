@@ -3,7 +3,9 @@ Dépôt du TP0
 
 ### Important Links:
 https://maven.apache.org/guides/introduction/introduction-to-the-pom.html
+
 https://github.com/benrbray/AdamBots-FIRST-2013-Robot-Code/wiki/How-To-Use-Git-&-Integrate-Git-With-NetBeans
+
 https://gist.github.com/alexpchin/102854243cd066f8b88e
 
 ## Installation de Maven
