@@ -1,6 +1,13 @@
 # TP0
 Dépôt du TP0
 
+Rather than copying and pasting Java Classes in a dummy way, I want to learn "comment ca marche" between Git/Github/et surtout Netbeans.
+I created a Java Project and I want it to be the basic repository (this one), then I want to push/pull this repository using Netbeans.
+
+I've been trying to do this by reading these articles.
+
+I still didn't get through the whole workflow.
+
 ### Important Links:
 https://maven.apache.org/guides/introduction/introduction-to-the-pom.html
 
